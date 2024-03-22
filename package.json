@@ -2,8 +2,8 @@
     "name": "@sscode-smith/cs-utils",
     "version": "0.1.5",
     "description": "CodeSmith Utilities",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/cs-codesmith/cs-utils.git"
