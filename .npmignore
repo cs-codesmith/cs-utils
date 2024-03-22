@@ -9,6 +9,7 @@ node_modules/
 
 # ts
 tsconfig.json
+lib/
 
 # test
 __test__/
