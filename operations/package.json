@@ -1,0 +1,12 @@
+{
+    "name": "operations",
+    "version": "0.1.2",
+    "description": "Opration Utilities",
+    "main": "index.ts",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "danju <danju@starlight-sangdan.com>",
+    "license": "MIT"
+}
