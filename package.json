@@ -4,11 +4,9 @@
     "description": "CodeSmith Utilities",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "files": [
-        "dist/*"
-    ],
     "repository": {
-        "type": "git"
+        "type": "git",
+        "url": "git+https://github.com/cs-codesmith/cs-utils.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,8 +19,5 @@
     "license": "MIT",
     "devDependencies": {
         "typescript": "^5.4.3"
-    },
-    "workspaces": [
-        "operations"
-    ]
+    }
 }
