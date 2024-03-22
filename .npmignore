@@ -6,7 +6,6 @@ src/
 
 # node dependencies
 node_modules/
-package.json
 
 # ts
 tsconfig.json
