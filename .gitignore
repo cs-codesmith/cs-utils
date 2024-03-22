@@ -6,7 +6,3 @@ dist/
 lib/
 lib/*.js
 lib/*.d.ts
-
-
-# test
-jest.config.js
