@@ -1,3 +1,3 @@
-import * as operation from "./operations";
+import * as Operation from "./operations";
 
-export { operation };
+export { Operation };

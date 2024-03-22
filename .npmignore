@@ -9,3 +9,6 @@ node_modules/
 
 # ts
 tsconfig.json
+
+# test
+__test__/
