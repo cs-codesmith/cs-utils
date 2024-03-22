@@ -1,0 +1,11 @@
+# source
+src/
+
+# git
+.gitignore
+
+# node dependencies
+node_modules/
+
+# ts
+tsconfig.json
