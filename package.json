@@ -1,6 +1,6 @@
 {
     "name": "@sscode-smith/cs-utils",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "description": "CodeSmith Utilities",
     "main": "./lib/index.js",
     "types": "./lib/index.d.ts",
