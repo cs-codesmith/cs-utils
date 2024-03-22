@@ -1,7 +1,7 @@
 {
-    "name": "cs-utils",
-    "version": "1.0.0",
-    "description": "",
+    "name": "@sscode-smith/cs-utils",
+    "version": "0.0.1",
+    "description": "CodeSmith Utilities",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "files": [
